@@ -1,6 +1,6 @@
 const React = require('react')
 const ReactDOM = require('react-dom')
-const App = require('./ClientApp')
+const App = require('./ClientName')
 const ReactRouter = require('react-router')
 const { match } = ReactRouter
 
